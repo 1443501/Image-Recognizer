@@ -1,0 +1,16 @@
+body{
+background-color: navy;
+color: white;
+}
+.heading{
+width: 80%;
+font-size: 30px;
+}
+.objects{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+#camera,#result{
+    border: 2px dotted white;
+    width: 400px;
+    height: 400px;
+}
